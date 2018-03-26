@@ -1,0 +1,12 @@
+com/tech/productmanagement/dao/ProductDAO.class
+com/tech/productmanagement/controller/ProductController.class
+com/tech/productmanagement/service/ProductService.class
+com/tech/productmanagement/dao/impl/IProductDAO.class
+com/tech/productmanagement/model/AddProduct.class
+com/tech/productmanagement/service/IProductService.class
+com/tech/productmanagement/controller/Test.class
+com/tech/productmanagement/config/AppConfig.class
+com/tech/productmanagement/config/DBConfig.class
+com/tech/productmanagement/model/Bids.class
+com/tech/productmanagement/config/WebConfig.class
+com/tech/productmanagement/config/AppInitializer.class
